@@ -1,6 +1,6 @@
 # Daily reminders for nonprofit deadlines
 
-This small Python example turns a donor-receipt, volunteer, or campaign-report deadline into a visible reminder decision and a daily server-side schedule. Infrai keeps the schedule behind one API key, while the business rule stays ordinary Python that can be reused with another scheduler.
+This small Python example turns a donor-receipt, volunteer, or campaign-report deadline into a visible reminder decision and a daily server-side schedule. Infrai keeps the schedule behind one API key, so you get one key and one bill across AI, email, storage and the rest, all plain REST from any language with no SDK. The business rule stays ordinary Python that can be reused with another scheduler.
 
 ## Start with the decision
 
